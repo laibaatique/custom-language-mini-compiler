@@ -1,0 +1,13 @@
+  <keyword , 28>  <keyword , 59>  <punc , (>  <punc , )>  <punc , {>  <keyword , 28>  <id , 1>
+<error , 1>
+  <num , 10>  <punc , ::>  <keyword , 26>  <id , 2>
+<error , 2>
+  <num , -10.5E+12>  <punc , ::>  <keyword , 26>  <id , 3>
+<error , 3>
+  <num , +9.3>  <punc , ::>  <keyword , 25>  <id , 4>
+<error , 4>
+  <literal , 1>  <punc , ::>  <keyword , 60>  <id , 5>
+<error , 5>
+  <literal , 2>  <punc , ::>  <keyword , 9>  <id , 6>
+<error , 6>
+  <keyword , 12>  <punc , ::>  <keyword , 41>  <punc , (>  <id , 6>  <punc , )>  <keyword , 62>  <literal , 3>  <punc , ::>  <keyword , 2>  <keyword , 61>  <id , 1>  <punc , ::>  <keyword , 31>  <num , 0>  <punc , ::>  <punc , }>

@@ -1,0 +1,18 @@
+L1 : if _x < 10  goto L3
+  goto L2
+
+L3 : if _y == 5  goto L6
+  goto L4
+
+L6 : t1 = _x + 1
+_x = t1
+  goto L5
+
+L4 : t2 = _z * 2
+_y = t2
+
+L5 : t3 = 1 + 2
+_x = t3
+  goto L1
+
+L2 : 

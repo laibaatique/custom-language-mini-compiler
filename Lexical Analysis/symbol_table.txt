@@ -1,0 +1,6 @@
+1. _num
+2. num_
+3. n_umber
+4. cou_se
+5. course_
+6. _flag
